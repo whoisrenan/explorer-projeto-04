@@ -1,4 +1,4 @@
-<h1 align="center">Explore - Rocketseat Projeto 04</h1>
+<h1 align="center">Explorer - Rocketseat Projeto 04</h1>
 <h3> Landing Page de apresentação do projeto desenvolvido no Explorer da Rocketseat.</h3>
 
 ![Imagem do projeto desenvolvido pelo Explore da Rocketseat](image.png)
