@@ -1,5 +1,5 @@
 <h1 align="center">Explore - Rocketseat Projeto 04</h1>
-<h3> Landing Page de apresentação do projeto desenvolvido no Explore da Rocketseat</h3>
+<h3> Landing Page de apresentação do projeto desenvolvido no Explore da Rocketseat.</h3>
 
 ![Imagem do projeto desenvolvido pelo Explore da Rocketseat](image.png)
 
