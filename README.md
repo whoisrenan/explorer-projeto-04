@@ -1,12 +1,12 @@
 <h1 align="center">Explore - Rocketseat Projeto 04</h1>
-<h3> Landing Page de apresentação do projeto desenvolvido no Explore da Rocketseat.</h3>
+<h3> Landing Page de apresentação do projeto desenvolvido no Explorer da Rocketseat.</h3>
 
 ![Imagem do projeto desenvolvido pelo Explore da Rocketseat](image.png)
 
 
 
 ## Descrição do Projeto
-Landing Page de apresentação do projeto desenvolvido no Explore da Rocketseat
+Landing Page de apresentação do projeto desenvolvido no Explorer da Rocketseat
 
 ## Instalação
 Basta baixar o repositório na sua máquina, abrir na IDE de sua preferência e executar o arquivo HTML em seu navegador.
